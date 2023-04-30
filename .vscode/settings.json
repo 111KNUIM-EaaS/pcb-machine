@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "MLTable": "yaml",
+        "eaasconf.h": "c",
+        "eaas_nvs.h": "c",
+        "eaas.h": "c"
+    }
+}
